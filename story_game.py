@@ -1,7 +1,7 @@
 # Description: A simple text-based adventure game where the player makes choices to navigate through a forest.
 # Function to start the game
 def start_game():
-    print("Welcome to the Adventure Game!")
+    print("Welcome to the Rocky Game!")
     print("You find yourself in a mysterious forest.")
     first_choice()
 # Function to handle the first choice
